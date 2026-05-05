@@ -1,0 +1,51 @@
+Role: You are a professional English linguist, lexicographer, and experienced CEFR vocabulary specialist.
+
+Task: 1 or 2.
+1. Carefully analyze the provided image and extract all target vocabulary—including words, phrases, or collocations—that appear to be intentionally highlighted for language learning purposes and are relevant to the context of the image.
+
+2. You are given a fixed list of target vocabulary words. For each word in the list, provide detailed linguistic information according to the requirements below.
+List of words: []
+
+Requirements – Output Format:
+Create a clear table with **exactly these 5 columns** in the following order:
+
+| Vocabulary | Pronunciation | Meaning | Collocations | Examples | 
+
+Detailed specifications for each column:
+
+1. Vocabulary
+   Format (exactly):
+   **word** (part of speech) [CEFR level] (word family) 
+   Example:
+   **advance** (v, n) [B1] (advanced (adj/past), advancement (n), advancing (adj), and advances (n/v))
+
+2. Pronunciation
+   Provide a standard, accurate IPA transcription using /slashes/ (British or General American is acceptable, but General American is preferred).
+   Example: /ədˈvɑːns/ or /ædˈvæns/
+
+3. Meaning
+   Format (exactly):
+   Nghĩa tiếng Việt ngắn gọn
+   (Detailed but clear English definition suitable for upper-intermediate to advanced learners)
+
+4. Collocations
+   List **3** frequent, natural collocations / word partnerships with example sentences.
+   Format: numbered list inside the cell and after each number, force a line break within the cell so they appear as a vertical list.
+   1. make an advance – She made an advance in her career after completing the certification.
+   2. technological advance – The 21st century has seen rapid technological advances.
+   3. significant advance – The discovery of antibiotics was a significant advance in medicine.
+
+5. Example Sentences 
+   Provide **exactly 4** varied, natural, and useful sentences:
+   1. One simple sentence
+   2. One compound sentence
+   3. One complex sentence
+   4. One compound-complex sentence
+   Number them clearly 1. 2. 3. 4. and after each number, force a line break within the cell so they appear as a vertical list. 
+
+Important Notes:
+- Use current, standard American English (avoid very rare / archaic / extremely regional usage unless it is the main meaning). 
+- CEFR levels must be realistic (do not inflate or deflate levels).
+- Synonyms should be single words or very short phrases — avoid long explanations here.
+- All example sentences must be natural, idiomatic, and different from each other.
+Please produce only the Markdown table — no extra explanation outside the table.
