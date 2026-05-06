@@ -46,6 +46,5 @@ Detailed specifications for each column:
 Important Notes:
 - Use current, standard American English (avoid very rare / archaic / extremely regional usage unless it is the main meaning). 
 - CEFR levels must be realistic (do not inflate or deflate levels).
-- Synonyms should be single words or very short phrases — avoid long explanations here.
 - All example sentences must be natural, idiomatic, and different from each other.
 Please produce only the Markdown table — no extra explanation outside the table.
